@@ -22,7 +22,7 @@ BuildRequires:	rpm-perlprov >= 4.1-13
 # and rpm comes back again...  Here should be ">= 0.11", but the newest
 # perl-Email-Foldertype is 0.5.
 BuildRequires:	perl-Email-FolderType
-BuildRequires:	perl-Email-Simple >= 1.4
+BuildRequires:	perl-Email-Simple >= 1:1.4
 BuildRequires:	perl-File-Path-Expand
 BuildRequires:	perl-Test-Simple
 %endif
