@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Email
 %define	pnam	LocalDelivery
-Summary:	Email::LocalDelivery - Deliver a piece of email - simply
+Summary:	Email::LocalDelivery - deliver a piece of email - simply
 Summary(pl):	Email::LocalDelivery - po prostu dostarczanie poczty
 Name:		perl-Email-LocalDelivery
 Version:	0.07
