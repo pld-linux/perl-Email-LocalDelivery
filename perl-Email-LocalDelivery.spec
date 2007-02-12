@@ -6,7 +6,7 @@
 %define		pdir	Email
 %define		pnam	LocalDelivery
 Summary:	Email::LocalDelivery - deliver a piece of email - simply
-Summary(pl):	Email::LocalDelivery - po prostu dostarczanie poczty
+Summary(pl.UTF-8):   Email::LocalDelivery - po prostu dostarczanie poczty
 Name:		perl-Email-LocalDelivery
 Version:	0.21
 Release:	1
@@ -35,10 +35,10 @@ This is the second module produced by the "Perl Email Project", a
 reaction against the complexity and increasing bugginess of the
 Mail::* modules. It delivers an email to a list of mailboxes.
 
-%description -l pl
-To jest drugi modu³ wyprodukowany przez "Perl Email Project", bêd±cy
-reakcj± na z³o¿ono¶æ i rosn±cy wspó³czynnik zapluskwienia modu³ów
-Mail::*. Modu³ dostarcza pocztê do listy skrzynek.
+%description -l pl.UTF-8
+To jest drugi moduÅ‚ wyprodukowany przez "Perl Email Project", bÄ™dÄ…cy
+reakcjÄ… na zÅ‚oÅ¼onoÅ›Ä‡ i rosnÄ…cy wspÃ³Å‚czynnik zapluskwienia moduÅ‚Ã³w
+Mail::*. ModuÅ‚ dostarcza pocztÄ™ do listy skrzynek.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
