@@ -6,7 +6,7 @@
 %define		pdir	Email
 %define		pnam	LocalDelivery
 Summary:	Email::LocalDelivery - deliver a piece of email - simply
-Summary(pl.UTF-8):   Email::LocalDelivery - po prostu dostarczanie poczty
+Summary(pl.UTF-8):	Email::LocalDelivery - po prostu dostarczanie poczty
 Name:		perl-Email-LocalDelivery
 Version:	0.21
 Release:	1
