@@ -8,13 +8,13 @@
 Summary:	Email::LocalDelivery - deliver a piece of email - simply
 Summary(pl.UTF-8):	Email::LocalDelivery - po prostu dostarczanie poczty
 Name:		perl-Email-LocalDelivery
-Version:	0.217
+Version:	1.200
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Email/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	10c70424179010bf9fb2f1b03ab92527
+# Source0-md5:	6218c960f8f426b5c20a64b3fb7a6bf4
 URL:		http://search.cpan.org/dist/Email-LocalDelivery/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
