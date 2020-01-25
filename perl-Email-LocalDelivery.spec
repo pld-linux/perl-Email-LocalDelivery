@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Email
 %define		pnam	LocalDelivery
 Summary:	Email::LocalDelivery - deliver a piece of email - simply
