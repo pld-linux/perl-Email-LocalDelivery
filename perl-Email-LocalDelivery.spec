@@ -8,7 +8,7 @@ Summary:	Email::LocalDelivery - deliver a piece of email - simply
 Summary(pl.UTF-8):	Email::LocalDelivery - po prostu dostarczanie poczty
 Name:		perl-Email-LocalDelivery
 Version:	1.200
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
